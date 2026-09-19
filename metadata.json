@@ -1,0 +1,6 @@
+{
+  "name": "Jharkhand Pragati Setu",
+  "description": "Mobile application for Jharkhand Pragati Setu (झारखण्ड प्रगति सेतु) collaborative governance platform with local auth, Supabase synchronization, and 4 role portals.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
